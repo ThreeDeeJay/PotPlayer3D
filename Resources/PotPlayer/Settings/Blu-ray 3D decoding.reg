@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\DAUM\PotPlayerMini\Settings]
+"SupportH264MVC"=dword:00000001
+"FormatH264MVC"=dword:00000004
+"PixelShader3DUse"=dword:00000002
+"PixelShader3DFromName"=dword:00000001
+"PixelShader3DDst"=dword:00000000
+"VideoRen2"=dword:0000000a

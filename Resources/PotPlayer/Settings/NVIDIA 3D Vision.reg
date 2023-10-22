@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\DAUM\PotPlayerMini\Settings]
+"D3DFullScreen"=dword:00000001
+"D3DFullScreenUi"=dword:00000001
+"PixelShader3DUse"=dword:00000002
+"PixelShader3DDst"=dword:00000015
+"PixelShader3DSrcFull"=dword:00000001
+"PixelShader3DSrcSwap"=dword:00000001
+"FormatH264MVC"=dword:00000003
+"VideoRen2"=dword:00000008

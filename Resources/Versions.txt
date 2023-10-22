@@ -1,0 +1,7 @@
+PotPlayer					230905(1.7.21999)	32-bit	https://web.archive.org/web/20231020181034/https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe
+OpenCodec					v2					32-bit	https://web.archive.org/web/20231020181045/http://t1.daumcdn.net/potplayer/PotPlayer/Codec/v2/OpenCodecSetup.exe
+SVP 						3.1.7 						https://web.archive.org/web/20231020181314/https://www.videohelp.com/software?d=SVP_3.1.7.exe
+AviSynth					2.6.0 				ST		https://web.archive.org/web/20221024103337/https://gigenet.dl.sourceforge.net/project/avisynth2/AviSynth%202.6/AviSynth%202.6.0/AviSynth_260.exe
+AviSynth					2.6.0 				MT		https://www.dropbox.com/s/dckxoowjlzwku1s/avisynth.dll?dl=1
+7-Zip						15.05						https://web.archive.org/web/20160204065242if_/http://d.7-zip.org/a/7z1505-x64.exe
+NVIDIA Profile Inspector	2.3.0.13					https://web.archive.org/web/20231022191938mp_/https://github.com/Orbmu2k/nvidiaProfileInspector/releases/download/2.3.0.13/nvidiaProfileInspector.zip

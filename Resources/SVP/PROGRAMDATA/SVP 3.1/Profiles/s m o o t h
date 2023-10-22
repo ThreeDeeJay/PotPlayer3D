@@ -1,0 +1,12 @@
+[main]
+ExMethod=MSmoothFps_0
+ExMulti=MON:2
+ExAlgo=23
+ExPel=2
+ExBlockSize=16x16:2
+ExSadml=0
+ExBlend=false
+ExDwnResize=0
+ExRecalc=0:0
+TypeDist=Exh:-14:SATD
+Badsad=2000:-24

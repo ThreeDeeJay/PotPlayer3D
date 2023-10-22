@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<ArrayOfProfile>
+  <Profile>
+    <ProfileName>DaumPot Player</ProfileName>
+    <Executeables>
+      <string>potplayermini64.exe</string>
+      <string>potplayermini.exe</string>
+    </Executeables>
+    <Settings>
+      <ProfileSetting>
+        <SettingNameInfo />
+        <SettingID>1881060439</SettingID>
+        <SettingValue>1</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+    </Settings>
+  </Profile>
+</ArrayOfProfile>
