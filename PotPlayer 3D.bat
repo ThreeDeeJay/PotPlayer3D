@@ -3,7 +3,7 @@ SETlocal EnableExtensions
 SETlocal EnableDelayedExpansion
 
 SET "ScriptTitle=PotPlayer 3D"
-SET "ScriptVersion=1.0"
+SET "ScriptVersion=1.1"
 SET "ScriptTitleVersion=!ScriptTitle! !ScriptVersion!"
 SET "OutputMode=NVIDIA 3D Vision"
 
