@@ -141,11 +141,8 @@ CALL :Execute "!PotPlayer32BitPath!\PotPlayerMini.exe"
 EXIT/B
 
 :Execute
-SETLOCAL
-set __COMPAT_LAYER=RUNASINVOKER
-start "" "%~1"
-ENDLOCAL
-EXIT/B
+explorer "%~1"
+EXIT /B
 
 :Elevate
 set "elevate=!temp!\elevate.vbs"
